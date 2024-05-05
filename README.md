@@ -1,2 +1,3 @@
 # f1App
-Big Dreams and lots of things
+
+![DIAGRAM](F1AppFlow.drawio.svg)
