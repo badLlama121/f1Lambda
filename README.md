@@ -1,3 +1,3 @@
 # f1App
 
-![DIAGRAM](Untitled Diagram.drawio)
+![DIAGRAM](F1App.svg)
